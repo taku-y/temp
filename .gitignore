@@ -3,6 +3,7 @@
 *.pklz
 .DS_Store
 *.
+doc/notebooks/.ipynb_checkpoints/expr_vb_bml-checkpoint.ipynb
 
 build/*
 htmlcov/*
